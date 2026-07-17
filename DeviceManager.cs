@@ -1,0 +1,1 @@
+namespace SimpleiPhoneToolkit; public class DeviceManager{}
